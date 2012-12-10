@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.computerlyrik.roo.addon.copy</groupId>
+  <artifactId>de.computerlyrik.roo.addon.copy</artifactId>
+  <version>0.3</version>
+  <versioning>
+    <versions>
+      <version>0.3</version>
+    </versions>
+    <lastUpdated>20121210175348</lastUpdated>
+  </versioning>
+</metadata>
