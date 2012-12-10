@@ -6,9 +6,9 @@ Copy JPA objects properly
 Complies with roo 1.2.2
 
 # Usage 
-## Installation
+## Local Installation
 ```bash
-osgi start --url http://
+osgi start --url https://github.com/computerlyrik/roo-addon-copy/raw/master/repo/releases/de/computerlyrik/roo/addon/copy/de.computerlyrik.roo.addon.copy/0.3/de.computerlyrik.roo.addon.copy-0.3.jar
 ```
 
 ## Uninstallation
